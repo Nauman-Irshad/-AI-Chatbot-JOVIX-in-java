@@ -4,7 +4,6 @@
 Thanks to the following contributors who have helped build this project:
 -ABDULLAH HABIB https://github.com/AABDULLAH-HABIB 
 -NAUMAN IRSHD ALI SHAH  https://github.com/Nauman-Irshad
-Want to contribute? Open a pull request! 🎉
 
 AI Chatbot App 🤖💬
 
